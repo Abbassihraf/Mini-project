@@ -2,7 +2,7 @@
 
 Le mini projet permet d'améliorer vos compétences dans un environnement de travail réel.
 
-Contexte
+# Contexte
 Votre tâche consiste à construire le projet à partir des dessins et modèles contenus dans le dossier "/design". Vous y trouverez une version mobile et une version de bureau du modèle sur lequel vous pourrez travailler.
 
 Les dessins sont au format statique JPG. Cela signifie que vous devrez faire preuve de discernement pour les styles tels que "font-size", "padding" et "margin". Cela devrait vous aider à entraîner votre œil à percevoir les différences d'espacement et de taille.
@@ -11,7 +11,7 @@ Vous trouverez tous les éléments nécessaires dans le dossier /images. Les él
 
 Il existe également un fichier style-guide.md, qui contient les informations dont vous aurez besoin, telles que la palette de couleurs et les polices.
 
-Déroulement
+# Déroulement
 Initialisez votre projet en tant que dépôt public sur [GitHub] (https://github.com/).
 Configurez votre dépôt pour publier votre code sur [GitHub Pages] (https://pages.github.com).
 Examinez les modèles pour commencer à planifier la manière dont vous allez aborder le projet. Cette étape est cruciale pour vous aider à anticiper les classes CSS que vous pourriez créer pour créer des styles réutilisables.
