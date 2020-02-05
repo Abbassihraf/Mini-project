@@ -64,6 +64,7 @@ body{
 
 .per{
     font-weight: lighter;
+    opacity: 0.5;
 }
 .dollar{
     font-weight: bolder;
